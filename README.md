@@ -81,10 +81,13 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview
+👉 **Live Dashboard Link:** https://shorturl.at/OIcbr  
 
 ### Sales Overview Dashboard  
-![Sales Overview](https://shorturl.at/OIcbr)
+![Sales Overview](./Screenshot%202025-12-25%20154653.png)
 
+### Customer Details Dashboard  
+![Customer Details](./Screenshot%202025-12-25%20154712.png)
 ---
 
 ## 🧠 What I Learned
