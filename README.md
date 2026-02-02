@@ -83,7 +83,7 @@ The dataset includes:
 ## 📸 Dashboard Preview
 
 ### Sales Overview Dashboard  
-![Sales Overview]([./Screenshot%202025-12-25%20154653.png](https://shorturl.at/OIcbr))
+![Sales Overview](https://shorturl.at/OIcbr)
 
 ---
 
